@@ -1,2 +1,5 @@
-# ID_Korelasi-dengan-R
-Korelasi merupakan ukuran mengenai kekuatan hubungan antara dua variabel. Korelasi sangat penting sebagai awal dalam melakukan regresi.
+# Korelasi dengan R
+### Penjelasan Singkat Korelasi
+Korelasi merupakan ukuran mengenai kekuatan hubungan antara dua variabel. Melalui nilai korelasi, kita dapat mengetahui kekuatan hubungan, kuat atau lemah, maupun arah dari hubungan, sejalan (positif) atau bertolak belakang (negatif), antara dua variabel. Korelasi sangat penting sebagai tahap awal eksplorasi variabel dalam regresi.
+### Korelasi vs Regresi
+Korelasi tidak sama dengan regresi. Korelasi memberikan ukuran mengenai antara dua variabel, tanpa mengetahui pengaruh dari variabel satu terhadap variabel lainnya. Beda dengan korelasi, regresi merupakan metode yang digunakan untuk mengatahui pengaruh dari suatu variabel terhadap variabel lain. Melalui regresi, kita bisa mengetahui variabel mana yang memengaruhi suatu variabel. Kalau korelasi kita hanya tahu hubungan dari variabel tersebut tanpa mengetahu variabel mana yang memberikan pengaruh pada variabel lain. Walaupun demikian, korelasi dan regresi saling berkaitan. Dua buah variabel yang memiliki korelasi kuat akan berpotensi memiliki pengaruh. Jadinya, korelasi digunakan sebagai awal untuk melihat hubungan antarvariabel, yang selanjutnya akan dianalisis lebih lanjut terkait pengaruh antarvariabel.
