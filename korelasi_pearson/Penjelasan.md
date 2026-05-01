@@ -1,0 +1,3 @@
+# Korelasi Pearson
+### Pengertian
+Korelasi Pearson merupakan ukuran yang menunjukkan keeratan hubungan linier antara dua variabel. Ukuran ini hanya bisa digunakan jika kedua variabel merupakan variabel numerik atau variabel yang berbentuk angka. Nilai dari korelasi ini berkisar dari -1 hingga 1. Jika nilainya semakin mendekati -1 atau 1, hubungan kedua variabel semakin kuat. Namun, jika nilainya semakin mendekati 0, hubungan kedua variabel semakin lemah. Nilai korelasi positif (+) menunjukkan hubungan linier yang searah, sedangkan nilai korelasi negatif (-) menunjukkan hubungan linier yang berlawanan arah.
